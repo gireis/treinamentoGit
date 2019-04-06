@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Teste gigi 1.0
 
 mudar as branchs
 
 kkkkkkk
+=======
+teste gigi
+
+kkkkk gigigigigig
+>>>>>>> e4d99d510f9fee20e45c02c24345a90a63061eb6
